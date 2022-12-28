@@ -5,7 +5,7 @@
 /* Var    : V 1.0                                   */
 /****************************************************/
 
-s#include "STD_TYPES.h"
+#include "STD_TYPES.h"
 #include "BankSystem.h"
 
 static uint32 bank_id 	= 1000000000;
