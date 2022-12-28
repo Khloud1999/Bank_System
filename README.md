@@ -1,10 +1,15 @@
 # Bank_System
+
+
 Bank Management System with two modes 
 1-admin mode 
 2- user mode
 
 
+
 0)App Window
+
+
 ![image](https://user-images.githubusercontent.com/72269263/209786477-2ffab144-0aac-4318-a8c2-592b1b14118e.png)
 
 
